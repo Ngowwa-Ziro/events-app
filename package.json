@@ -11,6 +11,7 @@
   "dependencies": {
     "flowbite": "^2.4.1",
     "flowbite-react": "^0.10.1",
+    "material-symbols": "^0.21.0",
     "next": "14.2.4",
     "react": "^18",
     "react-dom": "^18"
